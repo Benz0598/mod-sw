@@ -870,6 +870,6 @@ Quai_Thu = {
 [30612] = {name_5 = "❪5✰❫ Nobara Kugisaki ᴀ²", name_6 = "❪6✰❫ Nobara Kugisakio ᴀ²", IDAP = 30612},
 [30613] = {name_5 = "❪5✰❫ Nobara Kugisaki ᴀ²", name_6 = "❪6✰❫ Nobara Kugisakio ᴀ²", IDAP = 30613},
 [30614] = {name_5 = "❪5✰❫ Nobara Kugisaki ᴀ²", name_6 = "❪6✰❫ Nobara Kugisakio ᴀ²", IDAP = 30614},
-[30615] = {name_5 = "❪5✰❫ Nobara Kugisaki ᴀ²", name_6 = "❪6✰❫ Nobara Kugisakio ᴀ²", IDAP = 30615},
+[30615] = {name_5 = "❪5✰❫ Nobara Kugisaki ᴀ²", name_6 = "❪6✰❫ Nobara Kugisakio ᴀ²", IDAP = 30615}
 
 }
